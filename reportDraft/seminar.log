@@ -1,0 +1,310 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.25)  22 FEB 2015 18:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**seminar
+(./seminar.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count87
+\c@@ppsavesec=\count88
+\c@@ppsaveapp=\count89
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count92
+\lst@currlwidth=\dimen105
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen108
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+(./seminar.aux)
+\openout1 = `seminar.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen110
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count105
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+
+Underfull \hbox (badness 7540) in paragraph at lines 51--52
+\OT1/cmr/m/n/10 Supercomputers em-body the cli-max of high-
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Å in font cmr10!
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 103.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 103.
+[3]
+Underfull \hbox (badness 1735) in paragraph at lines 161--162
+[]\OT1/cmr/m/n/10 Lookahead depth (DEPTH): The looka-head
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 163--164
+[]\OT1/cmr/m/n/10 Panel broad-cast-ing method (BCAST): Af-ter
+ []
+
+[4]
+
+LaTeX Warning: Reference `sec:appendixHPLdatSuperMUC' on page 5 undefined on in
+put line 194.
+
+<ptf_flow.png, id=22, 201.00093pt x 532.99126pt>
+File: ptf_flow.png Graphic file (type png)
+<use ptf_flow.png>
+Package pdftex.def Info: ptf_flow.png used on input line 205.
+(pdftex.def)             Requested size: 100.50021pt x 266.49498pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./ptf_flow.png>]
+Underfull \hbox (badness 1715) in paragraph at lines 239--240
+\OT1/cmr/m/n/10 ti-pli-ca-tion prob-lems, but real-life HPC ap-pli-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
+[]\OT1/cmr/m/n/10 Leibnitz Su-per-com-put-ing Cen-tre, \OT1/cmr/m/it/10 lik-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--253
+\OT1/cmr/m/it/10 wid - light weight per-for-mance tools\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (62.55615pt too wide) in paragraph at lines 250--253
+\OT1/cmr/m/n/10 https://www.lrz.de/services/software/programmierung/likwid/ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
+[]\OT1/cmr/m/n/10 Liwkid, \OT1/cmr/m/it/10 Lik-wid-Pow-er-me-ter\OT1/cmr/m/n/10
+ .
+ []
+
+
+Overfull \hbox (43.38951pt too wide) in paragraph at lines 254--257
+\OT1/cmr/m/n/10 https://code.google.com/p/likwid/wiki/LikwidPowermeter 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--261
+[]\OT1/cmr/m/n/10 BLAS, \OT1/cmr/m/it/10 Ba-sic Lin-ear Al-ge-bra Sub-rou-tines
+\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 262--265
+[]\OT1/cmr/m/n/10 ATLAS, \OT1/cmr/m/it/10 Au-to-mat-i-cally Tuned Lin-ear Al-ge
+-bra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
+[]\OT1/cmr/m/n/10 HPL, \OT1/cmr/m/it/10 HPL Tun-ing\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (11.94505pt too wide) in paragraph at lines 266--269
+\OT1/cmr/m/n/10 http://www.netlib.org/benchmark/hpl/tuning.html 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--277
+[]\OT1/cmr/m/n/10 Netlib, \OT1/cmr/m/it/10 HPL Al-go-rithm\OT1/cmr/m/n/10 .
+ []
+
+
+Overfull \hbox (55.07292pt too wide) in paragraph at lines 274--277
+\OT1/cmr/m/n/10 http://www.netlib.org/benchmark/hpl[]oldest/algorithm.html 
+ []
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+
+Underfull \hbox (badness 2103) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 Navar-rete, Benkner, San-drieser, Morin, and
+ []
+
+[6]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 320.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 320.
+
+Underfull \vbox (badness 1655) has occurred while \output is active []
+
+[7
+
+] [8] [9] [10] (./seminar.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2846 strings out of 493304
+ 41231 string characters out of 6139870
+ 254517 words of memory out of 5000000
+ 6291 multiletter control sequences out of 15000+600000
+ 8241 words of font info for 29 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,8n,32p,862b,1457s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on seminar.pdf (10 pages, 163389 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
